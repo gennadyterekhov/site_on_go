@@ -1,11 +1,8 @@
-# cyrillicToLatinBot
+# site_on_go
 
-for it to work place in .env the following data
+this is my first site on go + react  
 
+I could not link js files from html so I just wrote js code inside html files  
 
-
-PORT=  
-api_key=telegramBotApiAkey  
-webhook_url=  
-cyrillic=АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя  
-latin=ABVGDEËẐZIJKLMNOPRSTUFĤĊĆŜŚJYJÊÜÄabvgdeëẑzijklmnoprstufĥċćŝśjyjêüä  
+for it to work you must supply .env file with the following  
+PORT=8000  
